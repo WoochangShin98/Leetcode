@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1527-patients-with-a-condition](https://github.com/WoochangShin98/leetcode/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/WoochangShin98/leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/WoochangShin98/leetcode/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/WoochangShin98/leetcode/tree/master/1693-daily-leads-and-partners) |
 ## Nearest Pair of Points
 |  |
 | ------- |
