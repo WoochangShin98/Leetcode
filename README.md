@@ -26,4 +26,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0597-friend-requests-i-overall-acceptance-rate](https://github.com/WoochangShin98/leetcode/tree/master/0597-friend-requests-i-overall-acceptance-rate) |
 | [0603-consecutive-available-seats](https://github.com/WoochangShin98/leetcode/tree/master/0603-consecutive-available-seats) |
 | [0607-sales-person](https://github.com/WoochangShin98/leetcode/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/WoochangShin98/leetcode/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
