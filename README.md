@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1142-user-activity-for-the-past-30-days-ii](https://github.com/WoochangShin98/leetcode/tree/master/1142-user-activity-for-the-past-30-days-ii) |
 | [1148-article-views-i](https://github.com/WoochangShin98/leetcode/tree/master/1148-article-views-i) |
 | [1173-immediate-food-delivery-i](https://github.com/WoochangShin98/leetcode/tree/master/1173-immediate-food-delivery-i) |
+| [1179-reformat-department-table](https://github.com/WoochangShin98/leetcode/tree/master/1179-reformat-department-table) |
 ## Nearest Pair of Points
 |  |
 | ------- |
