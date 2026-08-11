@@ -21,4 +21,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0512-game-play-analysis-ii](https://github.com/WoochangShin98/leetcode/tree/master/0512-game-play-analysis-ii) |
 | [0577-employee-bonus](https://github.com/WoochangShin98/leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/WoochangShin98/leetcode/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/WoochangShin98/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
