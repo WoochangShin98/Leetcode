@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/WoochangShin98/leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/WoochangShin98/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/WoochangShin98/leetcode/tree/master/1068-product-sales-analysis-i) |
+| [1069-product-sales-analysis-ii](https://github.com/WoochangShin98/leetcode/tree/master/1069-product-sales-analysis-ii) |
 ## Nearest Pair of Points
 |  |
 | ------- |
