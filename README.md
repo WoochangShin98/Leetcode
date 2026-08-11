@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2041-accepted-candidates-from-the-interviews](https://github.com/WoochangShin98/leetcode/tree/master/2041-accepted-candidates-from-the-interviews) |
 | [2082-the-number-of-rich-customers](https://github.com/WoochangShin98/leetcode/tree/master/2082-the-number-of-rich-customers) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/WoochangShin98/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [2738-count-occurrences-in-text](https://github.com/WoochangShin98/leetcode/tree/master/2738-count-occurrences-in-text) |
 ## Nearest Pair of Points
 |  |
 | ------- |
