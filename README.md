@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1322-ads-performance](https://github.com/WoochangShin98/leetcode/tree/master/1322-ads-performance) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/WoochangShin98/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/WoochangShin98/leetcode/tree/master/1484-group-sold-products-by-the-date) |
+| [1517-find-users-with-valid-e-mails](https://github.com/WoochangShin98/leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 ## Nearest Pair of Points
 |  |
 | ------- |
