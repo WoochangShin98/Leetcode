@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/WoochangShin98/leetcode/tree/master/1084-sales-analysis-iii) |
 | [1113-reported-posts](https://github.com/WoochangShin98/leetcode/tree/master/1113-reported-posts) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/WoochangShin98/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1142-user-activity-for-the-past-30-days-ii](https://github.com/WoochangShin98/leetcode/tree/master/1142-user-activity-for-the-past-30-days-ii) |
 ## Nearest Pair of Points
 |  |
 | ------- |
