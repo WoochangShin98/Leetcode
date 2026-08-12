@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-reformat-department-table](https://github.com/WoochangShin98/leetcode/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/WoochangShin98/leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1241-number-of-comments-per-post](https://github.com/WoochangShin98/leetcode/tree/master/1241-number-of-comments-per-post) |
+| [1251-average-selling-price](https://github.com/WoochangShin98/leetcode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/WoochangShin98/leetcode/tree/master/1280-students-and-examinations) |
 | [1322-ads-performance](https://github.com/WoochangShin98/leetcode/tree/master/1322-ads-performance) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/WoochangShin98/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
