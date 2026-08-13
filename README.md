@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1294-weather-type-in-each-country](https://github.com/WoochangShin98/leetcode/tree/master/1294-weather-type-in-each-country) |
 | [1303-find-the-team-size](https://github.com/WoochangShin98/leetcode/tree/master/1303-find-the-team-size) |
 | [1322-ads-performance](https://github.com/WoochangShin98/leetcode/tree/master/1322-ads-performance) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/WoochangShin98/leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/WoochangShin98/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/WoochangShin98/leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/WoochangShin98/leetcode/tree/master/1517-find-users-with-valid-e-mails) |
