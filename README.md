@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/WoochangShin98/leetcode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/WoochangShin98/leetcode/tree/master/1280-students-and-examinations) |
 | [1294-weather-type-in-each-country](https://github.com/WoochangShin98/leetcode/tree/master/1294-weather-type-in-each-country) |
+| [1303-find-the-team-size](https://github.com/WoochangShin98/leetcode/tree/master/1303-find-the-team-size) |
 | [1322-ads-performance](https://github.com/WoochangShin98/leetcode/tree/master/1322-ads-performance) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/WoochangShin98/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/WoochangShin98/leetcode/tree/master/1484-group-sold-products-by-the-date) |
