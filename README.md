@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-students-with-invalid-departments](https://github.com/WoochangShin98/leetcode/tree/master/1350-students-with-invalid-departments) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/WoochangShin98/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/WoochangShin98/leetcode/tree/master/1407-top-travellers) |
+| [1421-npv-queries](https://github.com/WoochangShin98/leetcode/tree/master/1421-npv-queries) |
 | [1484-group-sold-products-by-the-date](https://github.com/WoochangShin98/leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/WoochangShin98/leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/WoochangShin98/leetcode/tree/master/1527-patients-with-a-condition) |
