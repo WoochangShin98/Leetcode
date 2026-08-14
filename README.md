@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1527-patients-with-a-condition](https://github.com/WoochangShin98/leetcode/tree/master/1527-patients-with-a-condition) |
 | [1543-fix-product-name-format](https://github.com/WoochangShin98/leetcode/tree/master/1543-fix-product-name-format) |
 | [1565-unique-orders-and-customers-per-month](https://github.com/WoochangShin98/leetcode/tree/master/1565-unique-orders-and-customers-per-month) |
+| [1571-warehouse-manager](https://github.com/WoochangShin98/leetcode/tree/master/1571-warehouse-manager) |
 | [1667-fix-names-in-a-table](https://github.com/WoochangShin98/leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/WoochangShin98/leetcode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/WoochangShin98/leetcode/tree/master/1693-daily-leads-and-partners) |
