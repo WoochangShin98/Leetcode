@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-customer-order-frequency](https://github.com/WoochangShin98/leetcode/tree/master/1511-customer-order-frequency) |
 | [1517-find-users-with-valid-e-mails](https://github.com/WoochangShin98/leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/WoochangShin98/leetcode/tree/master/1527-patients-with-a-condition) |
+| [1543-fix-product-name-format](https://github.com/WoochangShin98/leetcode/tree/master/1543-fix-product-name-format) |
 | [1667-fix-names-in-a-table](https://github.com/WoochangShin98/leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/WoochangShin98/leetcode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/WoochangShin98/leetcode/tree/master/1693-daily-leads-and-partners) |
