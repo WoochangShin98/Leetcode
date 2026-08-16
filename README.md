@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/WoochangShin98/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/WoochangShin98/leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1607-sellers-with-no-sales](https://github.com/WoochangShin98/leetcode/tree/master/1607-sellers-with-no-sales) |
+| [1623-all-valid-triplets-that-can-represent-a-country](https://github.com/WoochangShin98/leetcode/tree/master/1623-all-valid-triplets-that-can-represent-a-country) |
 | [1667-fix-names-in-a-table](https://github.com/WoochangShin98/leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/WoochangShin98/leetcode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/WoochangShin98/leetcode/tree/master/1693-daily-leads-and-partners) |
