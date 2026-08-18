@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-the-latest-login-in-2020](https://github.com/WoochangShin98/leetcode/tree/master/1890-the-latest-login-in-2020) |
 | [1907-count-salary-categories](https://github.com/WoochangShin98/leetcode/tree/master/1907-count-salary-categories) |
 | [1939-users-that-actively-request-confirmation-messages](https://github.com/WoochangShin98/leetcode/tree/master/1939-users-that-actively-request-confirmation-messages) |
+| [1965-employees-with-missing-information](https://github.com/WoochangShin98/leetcode/tree/master/1965-employees-with-missing-information) |
 | [2041-accepted-candidates-from-the-interviews](https://github.com/WoochangShin98/leetcode/tree/master/2041-accepted-candidates-from-the-interviews) |
 | [2082-the-number-of-rich-customers](https://github.com/WoochangShin98/leetcode/tree/master/2082-the-number-of-rich-customers) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/WoochangShin98/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
