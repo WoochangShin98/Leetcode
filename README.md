@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1939-users-that-actively-request-confirmation-messages](https://github.com/WoochangShin98/leetcode/tree/master/1939-users-that-actively-request-confirmation-messages) |
 | [1965-employees-with-missing-information](https://github.com/WoochangShin98/leetcode/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/WoochangShin98/leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
+| [2026-low-quality-problems](https://github.com/WoochangShin98/leetcode/tree/master/2026-low-quality-problems) |
 | [2041-accepted-candidates-from-the-interviews](https://github.com/WoochangShin98/leetcode/tree/master/2041-accepted-candidates-from-the-interviews) |
 | [2082-the-number-of-rich-customers](https://github.com/WoochangShin98/leetcode/tree/master/2082-the-number-of-rich-customers) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/WoochangShin98/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
