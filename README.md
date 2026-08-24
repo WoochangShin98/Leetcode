@@ -106,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0613-shortest-distance-in-a-line](https://github.com/WoochangShin98/leetcode/tree/master/0613-shortest-distance-in-a-line) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/WoochangShin98/leetcode/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/WoochangShin98/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
