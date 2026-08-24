@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1978-employees-whose-manager-left-the-company](https://github.com/WoochangShin98/leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2026-low-quality-problems](https://github.com/WoochangShin98/leetcode/tree/master/2026-low-quality-problems) |
 | [2041-accepted-candidates-from-the-interviews](https://github.com/WoochangShin98/leetcode/tree/master/2041-accepted-candidates-from-the-interviews) |
+| [2072-the-winner-university](https://github.com/WoochangShin98/leetcode/tree/master/2072-the-winner-university) |
 | [2082-the-number-of-rich-customers](https://github.com/WoochangShin98/leetcode/tree/master/2082-the-number-of-rich-customers) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/WoochangShin98/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [2738-count-occurrences-in-text](https://github.com/WoochangShin98/leetcode/tree/master/2738-count-occurrences-in-text) |
