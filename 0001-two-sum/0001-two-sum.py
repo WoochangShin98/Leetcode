@@ -10,3 +10,13 @@ class Solution(object):
             for j in range(i+1,len(nums)):
                 if nums[i] + nums[j] == target:
                     return [i,j]
+
+
+        '''
+        seen = {}
+
+        for i in range(len(nums)):
+            need = target - nums[i]
+            if need in seen:
+                return [seen[need],i]
+        '''
