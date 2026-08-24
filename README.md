@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2205-the-number-of-users-that-are-eligible-for-discount](https://github.com/WoochangShin98/leetcode/tree/master/2205-the-number-of-users-that-are-eligible-for-discount) |
 | [2230-the-users-that-are-eligible-for-discount](https://github.com/WoochangShin98/leetcode/tree/master/2230-the-users-that-are-eligible-for-discount) |
 | [2329-product-sales-analysis-v](https://github.com/WoochangShin98/leetcode/tree/master/2329-product-sales-analysis-v) |
+| [2339-all-the-matches-of-the-league](https://github.com/WoochangShin98/leetcode/tree/master/2339-all-the-matches-of-the-league) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/WoochangShin98/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [2738-count-occurrences-in-text](https://github.com/WoochangShin98/leetcode/tree/master/2738-count-occurrences-in-text) |
 ## Nearest Pair of Points
