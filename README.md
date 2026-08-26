@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2738-count-occurrences-in-text](https://github.com/WoochangShin98/leetcode/tree/master/2738-count-occurrences-in-text) |
 | [2837-total-traveled-distance](https://github.com/WoochangShin98/leetcode/tree/master/2837-total-traveled-distance) |
 | [2853-highest-salaries-difference](https://github.com/WoochangShin98/leetcode/tree/master/2853-highest-salaries-difference) |
+| [2985-calculate-compressed-mean](https://github.com/WoochangShin98/leetcode/tree/master/2985-calculate-compressed-mean) |
 ## Nearest Pair of Points
 |  |
 | ------- |
