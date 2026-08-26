@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-sort-the-olympic-table](https://github.com/WoochangShin98/leetcode/tree/master/2377-sort-the-olympic-table) |
 | [2480-form-a-chemical-bond](https://github.com/WoochangShin98/leetcode/tree/master/2480-form-a-chemical-bond) |
 | [2504-concatenate-the-name-and-the-profession](https://github.com/WoochangShin98/leetcode/tree/master/2504-concatenate-the-name-and-the-profession) |
+| [2668-find-latest-salaries](https://github.com/WoochangShin98/leetcode/tree/master/2668-find-latest-salaries) |
 | [2738-count-occurrences-in-text](https://github.com/WoochangShin98/leetcode/tree/master/2738-count-occurrences-in-text) |
 ## Nearest Pair of Points
 |  |
