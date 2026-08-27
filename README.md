@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2985-calculate-compressed-mean](https://github.com/WoochangShin98/leetcode/tree/master/2985-calculate-compressed-mean) |
 | [2987-find-expensive-cities](https://github.com/WoochangShin98/leetcode/tree/master/2987-find-expensive-cities) |
 | [2990-loan-types](https://github.com/WoochangShin98/leetcode/tree/master/2990-loan-types) |
+| [3051-find-candidates-for-data-scientist-position](https://github.com/WoochangShin98/leetcode/tree/master/3051-find-candidates-for-data-scientist-position) |
 ## Nearest Pair of Points
 |  |
 | ------- |
