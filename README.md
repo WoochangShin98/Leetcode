@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2987-find-expensive-cities](https://github.com/WoochangShin98/leetcode/tree/master/2987-find-expensive-cities) |
 | [2990-loan-types](https://github.com/WoochangShin98/leetcode/tree/master/2990-loan-types) |
 | [3051-find-candidates-for-data-scientist-position](https://github.com/WoochangShin98/leetcode/tree/master/3051-find-candidates-for-data-scientist-position) |
+| [3053-classifying-triangles-by-lengths](https://github.com/WoochangShin98/leetcode/tree/master/3053-classifying-triangles-by-lengths) |
 ## Nearest Pair of Points
 |  |
 | ------- |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/WoochangShin98/leetcode/tree/master/0009-palindrome-number) |
+## Polygons
+|  |
+| ------- |
+| [3053-classifying-triangles-by-lengths](https://github.com/WoochangShin98/leetcode/tree/master/3053-classifying-triangles-by-lengths) |
 <!---LeetCode Topics End-->
