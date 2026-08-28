@@ -11,6 +11,6 @@ class Solution(object):
                 total = total - roman[s[i]]
             else:
                 total = total + roman[s[i]]
-
+            
         total = total + roman[s[-1]]
         return total
