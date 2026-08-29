@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2990-loan-types](https://github.com/WoochangShin98/leetcode/tree/master/2990-loan-types) |
 | [3051-find-candidates-for-data-scientist-position](https://github.com/WoochangShin98/leetcode/tree/master/3051-find-candidates-for-data-scientist-position) |
 | [3053-classifying-triangles-by-lengths](https://github.com/WoochangShin98/leetcode/tree/master/3053-classifying-triangles-by-lengths) |
+| [3059-find-all-unique-email-domains](https://github.com/WoochangShin98/leetcode/tree/master/3059-find-all-unique-email-domains) |
 ## Nearest Pair of Points
 |  |
 | ------- |
