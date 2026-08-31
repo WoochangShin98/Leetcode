@@ -6,11 +6,11 @@ class Solution(object):
         """
         prefix = strs[0]
 
-        for s in strs[1:]:
-            while not s.startswith(prefix):
+        for i in strs[1:]:
+            while not i.startswith(prefix):
                 prefix = prefix[:-1]
 
-                if prefix == "":
-                    return ""
-
+                if prefix == '':
+                    return ''
+                
         return prefix
