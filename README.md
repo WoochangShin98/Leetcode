@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-second-day-verification](https://github.com/WoochangShin98/leetcode/tree/master/3172-second-day-verification) |
 | [3198-find-cities-in-each-state](https://github.com/WoochangShin98/leetcode/tree/master/3198-find-cities-in-each-state) |
 | [3246-premier-league-table-ranking](https://github.com/WoochangShin98/leetcode/tree/master/3246-premier-league-table-ranking) |
+| [3358-books-with-null-ratings](https://github.com/WoochangShin98/leetcode/tree/master/3358-books-with-null-ratings) |
 ## Nearest Pair of Points
 |  |
 | ------- |
