@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3358-books-with-null-ratings](https://github.com/WoochangShin98/leetcode/tree/master/3358-books-with-null-ratings) |
 | [3415-find-products-with-three-consecutive-digits](https://github.com/WoochangShin98/leetcode/tree/master/3415-find-products-with-three-consecutive-digits) |
 | [3436-find-valid-emails](https://github.com/WoochangShin98/leetcode/tree/master/3436-find-valid-emails) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/WoochangShin98/leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 ## Nearest Pair of Points
 |  |
 | ------- |
