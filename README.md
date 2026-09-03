@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0534-game-play-analysis-iii](https://github.com/WoochangShin98/leetcode/tree/master/0534-game-play-analysis-iii) |
 | [0550-game-play-analysis-iv](https://github.com/WoochangShin98/leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/WoochangShin98/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0574-winning-candidate](https://github.com/WoochangShin98/leetcode/tree/master/0574-winning-candidate) |
 | [0577-employee-bonus](https://github.com/WoochangShin98/leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/WoochangShin98/leetcode/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/WoochangShin98/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
