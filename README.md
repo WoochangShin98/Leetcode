@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/WoochangShin98/leetcode/tree/master/0610-triangle-judgement) |
 | [0612-shortest-distance-in-a-plane](https://github.com/WoochangShin98/leetcode/tree/master/0612-shortest-distance-in-a-plane) |
 | [0613-shortest-distance-in-a-line](https://github.com/WoochangShin98/leetcode/tree/master/0613-shortest-distance-in-a-line) |
+| [0614-second-degree-follower](https://github.com/WoochangShin98/leetcode/tree/master/0614-second-degree-follower) |
 | [0619-biggest-single-number](https://github.com/WoochangShin98/leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/WoochangShin98/leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/WoochangShin98/leetcode/tree/master/0627-swap-sex-of-employees) |
